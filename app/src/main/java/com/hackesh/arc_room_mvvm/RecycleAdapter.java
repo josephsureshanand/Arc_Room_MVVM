@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class RecycleAdapter extends RecyclerView.Adapter<RecycleAdapter.RecycleViewHolder> {
-
+//tempfor changes in git
     OnItemClickListener listener;
     List<SQLEntity> listLiveData = new ArrayList<>();
 
